@@ -28,7 +28,9 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-![BSImlT9Ca9](https://user-images.githubusercontent.com/55097668/225307684-d884bcb4-232b-4c86-a41b-e86eb5664620.gif)
+
+https://user-images.githubusercontent.com/55097668/225309241-889c9f2c-f4c6-45a7-a91f-11f1c9a9a08b.mp4
+
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with Recordit
